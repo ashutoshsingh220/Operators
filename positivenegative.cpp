@@ -1,3 +1,7 @@
+// write a code if a no is positive or negative.
+// ASHUTOSH SINGH
+// 23070123033
+
 #include<iostream>
 using namespace std;
 
